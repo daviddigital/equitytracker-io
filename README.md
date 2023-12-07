@@ -2,6 +2,10 @@
 
 EquityTracker.io is a comprehensive financial management tool that helps users track their net worth, plan for retirement, and manage their investments across various currencies and asset types.
 
+
+<img width="794" alt="table" src="https://github.com/daviddigital/equitytracker-io/assets/23751107/c1f2d038-6d4a-46b7-b28c-dbb579a37571">
+<img width="800" alt="nw" src="https://github.com/daviddigital/equitytracker-io/assets/23751107/984aa118-fe65-45a5-9944-e62c6271d2af">
+
 ## Features
 
 - **Asset Tracking**: Manage all your assets, including stocks, bonds, cash, property, and more, in one place.
