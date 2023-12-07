@@ -26,10 +26,6 @@ Encounter a bug or have a feature request? Please open an issue [here](https://g
 
 Stay updated with the latest changes and updates to EquityTracker.io by checking our [changelog](https://github.com/daviddigital/equitytracker-io/blob/main/CHANGELOG.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For more information, visit [EquityTracker.io](https://www.equitytracker.io/) or contact us at [hello@equitytracker.io](mailto:hello@equitytracker.io).
