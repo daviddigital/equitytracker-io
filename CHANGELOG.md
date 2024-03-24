@@ -2,9 +2,9 @@
 
 All notable changes to EquityTracker.io will be documented in this file.
 
-## [Unreleased]
+## [1.0.1] - 2024-03-24
 
-- Initial release of the changelog.
+- Improved background updates for faster loading of larger portfolios
 
 ## [1.0.0] - 2023-12-07
 
