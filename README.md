@@ -20,7 +20,7 @@ Visit [EquityTracker.io](https://www.equitytracker.io/) to sign up and start man
 
 ## Issue Tracking
 
-Encounter a bug or have a feature request? Please open an issue [here](https://github.com/daviddigital/equitytracker-io/issues).
+Encounter a bug or have a feature request? Please open an issue [here](https://github.com/daviddigital/equitytracker-io/issues). Anyone is welcome to open an issue, developers and non-developers welcome.
 
 ## Changelog
 
